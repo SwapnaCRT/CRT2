@@ -34,7 +34,7 @@ Entering A Lead
     
     TypeText         Password                    ${password}                 timeout=5s
     ClickText        Log In
-    ClickText        Remind Me Later
+    # ClickText        Remind Me Later
     LaunchApp        Sales
 
     ClickText        Accounts
